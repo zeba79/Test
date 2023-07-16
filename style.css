@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar a{
+    margin: 5px;
+    text-decoration: none;
+}
+
+
+
+
